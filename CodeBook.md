@@ -1,0 +1,260 @@
+#Data Dictionary - finalOutput.txt
+
+
+ - Person
+     - Person who conducted an experiement
+         - Person01
+         - Person02
+         - ...
+         - Person30
+
+ - Activity
+     - Activity performed during experiemen 
+         - WALKING
+         - WALKING_UPSTAIRS
+         - WALKING_DOWNSTAIRS
+         - SITTING
+         - STANDING
+         - LAYING
+        
+ - tBodyAcc.mean...X
+     - BodyAcc
+         - mean value
+ - tBodyAcc.mean...Y
+     - BodyAcc
+         - mean value
+ - tBodyAcc.mean...Z
+     - BodyAcc
+         - mean value
+ - tBodyAcc.std...X
+     - BodyAcc
+         - mean value
+ - tBodyAcc.std...Y
+     - BodyAcc
+         - mean value
+ - tBodyAcc.std...Z
+     - BodyAcc
+         - mean value
+ - tGravityAcc.mean...X
+     - GravityAcc
+         - mean value
+ - tGravityAcc.mean...Y
+     - GravityAcc
+         - mean value
+ - tGravityAcc.mean...Z
+     - GravityAcc
+         - mean value
+ - tGravityAcc.std...X
+     - GravityAcc
+         - mean value
+ - tGravityAcc.std...Y
+     - GravityAcc
+         - mean value
+ - tGravityAcc.std...Z
+     - GravityAcc
+         - mean value
+ - tBodyAccJerk.mean...X
+     - BodyAccJerk
+         - mean value
+ - tBodyAccJerk.mean...Y
+     - BodyAccJerk
+         - mean value
+ - tBodyAccJerk.mean...Z
+     - BodyAccJerk
+         - mean value
+ - tBodyAccJerk.std...X
+     - BodyAccJerk
+         - mean value
+ - tBodyAccJerk.std...Y
+     - BodyAccJerk
+         - mean value
+ - tBodyAccJerk.std...Z
+     - BodyAccJerk
+         - mean value
+ - tBodyGyro.mean...X
+     - BodyGyro
+         - mean value
+ - tBodyGyro.mean...Y
+     - BodyGyro
+         - mean value
+ - tBodyGyro.mean...Z
+     - BodyGyro
+         - mean value
+ - tBodyGyro.std...X
+     - BodyGyro
+         - mean value
+ - tBodyGyro.std...Y
+     - BodyGyro
+         - mean value
+ - tBodyGyro.std...Z
+     - BodyGyro
+         - mean value
+ - tBodyGyroJerk.mean...X
+     - BodyGyroJerk
+         - mean value
+ - tBodyGyroJerk.mean...Y
+     - BodyGyroJerk
+         - mean value
+ - tBodyGyroJerk.mean...Z
+     - BodyGyroJerk
+         - mean value
+ - tBodyGyroJerk.std...X
+     - BodyGyroJerk
+         - mean value
+ - tBodyGyroJerk.std...Y
+     - BodyGyroJerk
+         - mean value
+ - tBodyGyroJerk.std...Z
+     - BodyGyroJerk
+         - mean value
+ - tBodyAccMag.mean..
+     - BodyAccMag
+         - mean value
+ - tBodyAccMag.std..
+     - BodyAccMag
+         - mean value
+ - tGravityAccMag.mean..
+     - GravityAccMag
+         - mean value
+ - tGravityAccMag.std..
+     - GravityAccMag
+         - mean value
+ - tBodyAccJerkMag.mean..
+     - BodyAccJerkMag
+         - mean value
+ - tBodyAccJerkMag.std..
+     - BodyAccJerkMag
+         - mean value
+ - tBodyGyroMag.mean..
+     - BodyGyroMag
+         - mean value
+ - tBodyGyroMag.std..
+     - BodyGyroMag
+         - mean value
+ - tBodyGyroJerkMag.mean..
+     - BodyGyroJerkMag
+         - mean value
+ - tBodyGyroJerkMag.std..
+     - BodyGyroJerkMag
+         - mean value
+ - fBodyAcc.mean...X
+     - BodyAcc
+         - mean value
+ - fBodyAcc.mean...Y
+     - BodyAcc
+         - mean value
+ - fBodyAcc.mean...Z
+     - BodyAcc
+         - mean value
+ - fBodyAcc.std...X
+     - BodyAcc
+         - mean value
+ - fBodyAcc.std...Y
+     - BodyAcc
+         - mean value
+ - fBodyAcc.std...Z
+     - BodyAcc
+         - mean value
+ - fBodyAcc.meanFreq...X
+     - BodyAcc
+         - mean value
+ - fBodyAcc.meanFreq...Y
+     - BodyAcc
+         - mean value
+ - fBodyAcc.meanFreq...Z
+     - BodyAcc
+         - mean value
+ - fBodyAccJerk.mean...X
+     - BodyAccJerk
+         - mean value
+ - fBodyAccJerk.mean...Y
+     - BodyAccJerk
+         - mean value
+ - fBodyAccJerk.mean...Z
+     - BodyAccJerk
+         - mean value
+ - fBodyAccJerk.std...X
+     - BodyAccJerk
+         - mean value
+ - fBodyAccJerk.std...Y
+     - BodyAccJerk
+         - mean value
+ - fBodyAccJerk.std...Z
+     - BodyAccJerk
+         - mean value
+ - fBodyAccJerk.meanFreq...X
+     - BodyAccJerk
+         - mean value
+ - fBodyAccJerk.meanFreq...Y
+     - BodyAccJerk
+         - mean value
+ - fBodyAccJerk.meanFreq...Z
+     - BodyAccJerk
+         - mean value
+ - fBodyGyro.mean...X
+     - BodyGyro
+         - mean value
+ - fBodyGyro.mean...Y
+     - BodyGyro
+         - mean value
+ - fBodyGyro.mean...Z
+     - BodyGyro
+         - mean value
+ - fBodyGyro.std...X
+     - BodyGyro
+         - mean value
+ - fBodyGyro.std...Y
+     - BodyGyro
+         - mean value
+ - fBodyGyro.std...Z
+     - BodyGyro
+         - mean value
+ - fBodyGyro.meanFreq...X
+     - BodyGyro
+         - mean value
+ - fBodyGyro.meanFreq...Y
+     - BodyGyro
+         - mean value
+ - fBodyGyro.meanFreq...Z
+     - BodyGyro
+         - mean value
+ - fBodyAccMag.mean..
+     - BodyAccMag
+         - mean value
+ - fBodyAccMag.std..
+     - BodyAccMag
+         - mean value
+ - fBodyAccMag.meanFreq..
+     - BodyAccMag
+         - mean value
+ - fBodyBodyAccJerkMag.mean..
+     - BodyBodyAccJerkMag
+         - mean value
+ - fBodyBodyAccJerkMag.std..
+     - BodyBodyAccJerkMag
+         - mean value
+ - fBodyBodyAccJerkMag.meanFreq..
+     - BodyBodyAccJerkMag
+         - mean value
+ - fBodyBodyGyroMag.mean..
+     - BodyBodyGyroMag
+         - mean value
+ - fBodyBodyGyroMag.std..
+     - BodyBodyGyroMag
+         - mean value
+ - fBodyBodyGyroMag.meanFreq..
+     - BodyBodyGyroMag
+         - mean value
+ - fBodyBodyGyroJerkMag.mean..
+     - BodyBodyGyroJerkMag
+         - mean value
+ - fBodyBodyGyroJerkMag.std..
+     - BodyBodyGyroJerkMag
+         - mean value
+ - fBodyBodyGyroJerkMag.meanFreq..
+     - BodyBodyGyroJerkMag
+         - mean value
+
+__The End.__
+
+***
