@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Getting and Cleaning Data Course Project
 
 This file describes the approach used in creating an R script producing a tidy dataset per the assignment. It covers, 
@@ -164,3 +165,7 @@ write.table(finalOut, "finalOutput.txt", row.name=FALSE)
 __The End.__
 
 ***
+=======
+# wearableComputing
+This is R script for a class project: Getting and Cleaning Data, Course x of the Johns Hopkins University Data Data Science Specialization
+>>>>>>> 0318a917aba15fbc242700ce524bf9150139b5f4
