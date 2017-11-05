@@ -4,7 +4,7 @@
 
 # Set working directory & load packages...
 setwd("C:/Users/mikew_000/Documents/DataScience/wearableComputing")
-library(plyr); library(dplyr)
+library(plyr); library(dplyr); library(data.table)
 
 # Read in variable reference files to dataframes...
 activity <- read.table("UCI HAR Dataset/activity_labels.txt", header=FALSE, sep=" ", col.names=c("activityCode", "activity"))
